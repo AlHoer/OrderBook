@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "introduction-python"
+name = "Projet-Python"
 version = "0.1.0"
 description = ""
-authors = ["remigenet <remi.genet@gmail.com>"]
+authors = ["albanhoerdt <alban.hoerdt@dauphine.eu>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
