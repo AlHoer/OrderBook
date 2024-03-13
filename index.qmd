@@ -16,14 +16,14 @@ lightbox: auto
 ## Rémi Genet
 
 ```{=html}
-<a class="github-button" href="https://github.com/remigenet/Introduction-Python" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this website on Github">Star this website on Github</a><script async defer src="https://buttons.github.io/buttons.js"></script>
+<a class="github-button" href="https://github.com/Alhoer/Projet-Python" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this website on Github">Star this website on Github</a><script async defer src="https://buttons.github.io/buttons.js"></script>
 ```
 
-# {{< animate backInDown "Introduction à Python: " >}} 
+# {{< animate backInDown "Projet Python: " >}} 
 
 ### Toutes les bases pour bien démarrer !
 
-#### Un petit aperçu des réjouissances ci-dessous, mais pour [[commencer...](content/Cours_1/1-Histoire.qmd)]{.animate__animated .animate__pulse .animate__infinite style="display:inline-block;"}
+#### Un petit aperçu des réjouissances ci-dessous, mais pour [[commencer...](content/OrderBook.qmd)]{.animate__animated .animate__pulse .animate__infinite style="display:inline-block;"}
 
 
 
